@@ -1,2 +1,2 @@
 var Aux = require('./src/');
-module.exports = Aux;
+module.exports = new Aux();

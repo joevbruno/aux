@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
-    <title>120 - iPhone</title>
-    <desc>Created with Sketch.</desc>
     <defs>
         <path id="path-1" d="M120.5,171 C157.226936,171 187,141.226936 187,104.5 C187,67.7730641 157.226936,38 120.5,38 C83.7730641,38 54,67.7730641 54,104.5 C54,141.226936 83.7730641,171 120.5,171 Z"></path>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
@@ -21,7 +18,7 @@
             <mask id="mask-2" sketch:name="Mask" fill="white">
                 <use xlink:href="#path-1"></use>
             </mask>
-            <use id="Mask" stroke="#FFFFFF" stroke-width="2" fill="#33333F" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use id="Mask" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
             <g id="Group" sketch:type="MSLayerGroup" mask="url(#mask-2)">
                 <g transform="translate(76.000000, 62.000000)">
                     <rect id="Rectangle-118" stroke="#1F130A" stroke-width="1" fill="#6A4625" fill-rule="evenodd" filter="url(#filter-3)" sketch:type="MSShapeGroup" x="14" y="48" width="57" height="73" rx="42"></rect>
