@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>120 - iPhone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M120.5,171 C157.226936,171 187,141.226936 187,104.5 C187,67.7730641 157.226936,38 120.5,38 C83.7730641,38 54,67.7730641 54,104.5 C54,141.226936 83.7730641,171 120.5,171 Z"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="22" y="68" width="41" height="17" rx="14"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="120---iPhone" sketch:type="MSArtboardGroup">
+            <mask id="mask-2" sketch:name="Mask" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" stroke="#FFFFFF" stroke-width="2" fill="#33333F" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <g id="Group" sketch:type="MSLayerGroup" mask="url(#mask-2)">
+                <g transform="translate(76.000000, 62.000000)">
+                    <rect id="Rectangle-118" stroke="#1F130A" stroke-width="1" fill="#6A4625" fill-rule="evenodd" filter="url(#filter-3)" sketch:type="MSShapeGroup" x="14" y="48" width="57" height="73" rx="42"></rect>
+                    <path d="M54.1757755,31.2639648 C52.3152505,33.8392764 52.9791234,37.2571096 54.0024019,39.915937 C55.1120309,42.7991327 57.6632632,46.5609637 60.5744978,47.890034 C62.7660559,49.7605038 66.540662,50.1524361 69.281152,49.9532633 C70.7769277,49.8445536 72.4478212,49.720136 74.0522524,49.427944 C76.4537914,48.9905861 78.7064245,48.1773365 80,46.4782313 C79.2673455,41.1294262 70.8156994,38.8606109 66.2524781,35.9688523 C62.0812168,33.3254825 62.1811746,31.0591651 58.6458938,28 L54.1757755,31.2639648 L54.1757755,31.2639648 Z" id="Path-323" stroke="#2A190B" stroke-width="1" fill="#89613F" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <path d="M24.3388495,31.7924332 C26.488917,34.1664733 26.1901493,37.6382554 25.4477966,40.3909898 C24.6427996,43.3760169 22.4822852,47.3837897 19.6968003,49.0057176 C17.6938709,51.093064 13.9385124,51.8701905 11.1597485,51.9526748 C9.64308265,51.9976951 7.94853145,52.0450178 6.30272735,51.9184465 C3.83926076,51.7289925 1.48501009,51.1499361 0,49.5903931 C0.159402584,44.1885468 8.41768093,41.0629831 12.6964677,37.7155156 C16.6077261,34.6555804 16.2623684,32.4088442 19.4888459,29 L24.3388495,31.7924332 L24.3388495,31.7924332 Z" id="Path-323" stroke="#2A190B" stroke-width="1" fill="#754E2C" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <path d="M42,30.0232155 C42,30.0232155 57.176409,29.4698532 61.2898515,24.2567523 C63.9786239,20.8491827 53.8144491,10.0510184 49.3193899,5.08937712 C47.4496442,3.0255538 49.1650635,0.838861563 50.5852236,0 C49.5171142,3.33888957 70.9272069,19.9785649 67.6605017,24.2567526 C63.2573908,30.0232157 56.4961359,35.9794232 50.5852236,33.8861573 C44.6743113,31.7928915 44.8524473,40 44.8524473,40 L42,30.0232155 Z" id="Path-325" stroke="#1F130A" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <path d="M18,30.0232155 C18,30.0232155 33.176409,29.4698532 37.2898515,24.2567523 C39.9786239,20.8491827 29.8144491,10.0510184 25.3193899,5.08937712 C23.4496442,3.0255538 25.1650635,0.838861563 26.5852236,0 C25.5171142,3.33888957 46.9272069,19.9785649 43.6605017,24.2567526 C39.2573908,30.0232157 32.4961359,35.9794232 26.5852236,33.8861573 C20.6743113,31.7928915 20.8524473,40 20.8524473,40 L18,30.0232155 Z" id="Path-325" stroke="#1F130A" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" transform="translate(31.000000, 20.000000) scale(-1, 1) translate(-31.000000, -20.000000) "></path>
+                    <path d="M24.6645576,40.8786603 C23.6871639,33.2136879 29.171673,27 36.8997256,27 L46.6448804,27 C54.3795709,27 60.196018,33.2609063 59.6373978,40.9686838 L57.6035622,69.0313162 C57.044441,76.7460072 50.3315156,83 42.5940758,83 L44.0327396,83 C36.3023504,83 29.2424394,76.7795827 28.2659037,69.1213397 L24.6645576,40.8786603 Z" id="Rectangle-114" stroke="#2A190B" stroke-width="1" fill="#754E2C" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <ellipse id="Oval-26" stroke="#38210E" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" cx="36.5" cy="52.5" rx="6.5" ry="8.5"></ellipse>
+                    <path d="M37,52 C38.6568542,52 40,50.8807119 40,49.5 C40,48.1192881 38.6568542,47 37,47 C35.3431458,47 34,48.1192881 34,49.5 C34,50.8807119 35.3431458,52 37,52 Z" id="Oval-28" stroke="#2A190B" stroke-width="1" fill="#6A4625" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <path d="M44.0015281,84 C57.7832611,84 56.9915934,89 56.9915934,89 L31.0610666,89 C31.0610666,89 29.3531795,84 44.0015281,84 Z" id="Triangle-5" stroke="#38210E" stroke-width="1" fill="#6A4625" fill-rule="evenodd" sketch:type="MSShapeGroup" transform="translate(44.000000, 86.500000) scale(1, -1) translate(-44.000000, -86.500000) "></path>
+                    <ellipse id="Oval-26-Copy" stroke="#38210E" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" cx="50" cy="52" rx="6" ry="8"></ellipse>
+                    <ellipse id="Oval-28-Copy" stroke="#2A190B" stroke-width="1" fill="#6A4625" fill-rule="evenodd" sketch:type="MSShapeGroup" cx="50" cy="49.5" rx="3" ry="2.5"></ellipse>
+                    <path d="M42.3333333,84.4166667 L79.6666667,88.5833333" id="Line" stroke="#2A190B" stroke-width="3" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M42.3301887,84.3125 L76.6698113,93.6875" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M42.3292683,84.3269231 L68.6707317,100.673077" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M76,85.3333333 L76,86.6666667" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M78,85.4166667 L78,89.5833333" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M79,85.4166667 L79,89.5833333" id="Line-Copy-2" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M78,84.3125 L78,88.6875" id="Line-Copy" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M74,91.3333333 L74,92.6666667" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M75,91.4166667 L75,95.5833333" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M78,92.4166667 L78,96.5833333" id="Line-Copy-2" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M77,91.3125 L77,95.6875" id="Line-Copy" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M65.9696192,97 L65,98" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M68,98 L66,101" id="Line" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M70,100 L68,103" id="Line-Copy-2" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <path d="M70,98 L67,103" id="Line-Copy" stroke="#7ED321" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                    <mask id="mask-5" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" stroke="#492D15" stroke-width="1" fill="#5B3C1F" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                    <rect id="Rectangle-116" stroke="none" fill="#38210E" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-5)" x="24" y="84" width="36" height="2" rx="100"></rect>
+                    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(75.000000, 84.000000)"></g>
+                    <rect id="Rectangle-117" stroke="#492D15" stroke-width="1" fill="#7C5635" fill-rule="evenodd" sketch:type="MSShapeGroup" x="72" y="81" width="9" height="9" rx="2"></rect>
+                    <g id="Group-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(75.000000, 93.500000) rotate(14.000000) translate(-75.000000, -93.500000) translate(72.000000, 91.000000)"></g>
+                    <g id="Group-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(66.000000, 99.500000) rotate(30.000000) translate(-66.000000, -99.500000) translate(63.000000, 97.000000)"></g>
+                    <circle id="Oval-30" stroke="none" fill="#38210E" fill-rule="evenodd" sketch:type="MSShapeGroup" cx="37.5" cy="77.5" r="3.5"></circle>
+                    <circle id="Oval-30-Copy" stroke="none" fill="#38210E" fill-rule="evenodd" sketch:type="MSShapeGroup" cx="50.5" cy="77.5" r="3.5"></circle>
+                    <path d="M77.5310623,78.4887606 C77.3619473,78.5257172 77.1838713,78.5454545 77,78.5454545 C75.8954305,78.5454545 75,77.8331803 75,76.9545455 C75,76.301066 75.4953121,75.7396098 76.2035918,75.4947689 C76.266077,74.660899 77.1360114,74 78.2,74 C79.3045695,74 80.2,74.7122743 80.2,75.5909091 C80.2,75.7622035 80.1659669,75.9271749 80.102986,76.0817784 C80.6435356,76.3665757 81,76.8547198 81,77.4090909 C81,78.2877257 80.1045695,79 79,79 C78.4193169,79 77.8964337,78.8031481 77.5310623,78.4887606 Z" id="Oval-32" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <path d="M80.6873749,72.6932564 C80.5746316,72.7154303 80.4559142,72.7272727 80.3333333,72.7272727 C79.5969537,72.7272727 79,72.2999082 79,71.7727273 C79,71.3806396 79.330208,71.0437659 79.8023946,70.8968613 C79.8440513,70.3965394 80.4240076,70 81.1333333,70 C81.869713,70 82.4666667,70.4273646 82.4666667,70.9545455 C82.4666667,71.0573221 82.4439779,71.156305 82.4019907,71.249067 C82.762357,71.4199454 83,71.7128319 83,72.0454545 C83,72.5726354 82.4030463,73 81.6666667,73 C81.2795446,73 80.9309558,72.8818889 80.6873749,72.6932564 Z" id="Oval-32" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <path d="M75.6873749,72.6932564 C75.5746316,72.7154303 75.4559142,72.7272727 75.3333333,72.7272727 C74.5969537,72.7272727 74,72.2999082 74,71.7727273 C74,71.3806396 74.330208,71.0437659 74.8023946,70.8968613 C74.8440513,70.3965394 75.4240076,70 76.1333333,70 C76.869713,70 77.4666667,70.4273646 77.4666667,70.9545455 C77.4666667,71.0573221 77.4439779,71.156305 77.4019907,71.249067 C77.762357,71.4199454 78,71.7128319 78,72.0454545 C78,72.5726354 77.4030463,73 76.6666667,73 C76.2795446,73 75.9309558,72.8818889 75.6873749,72.6932564 Z" id="Oval-32" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+            <text id="Aux" sketch:type="MSTextLayer" font-family="Aileron" font-size="25" font-weight="260" sketch:alignment="middle" line-spacing="19" fill="#FFFFFF">
+                <tspan x="95.9473095" y="209.625">Aux</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
