@@ -4,33 +4,18 @@
     ====================================================================================
     ==================================================================================== */
 
-import webpack from 'webpack';
-import path from 'path';
-
-const devServer = {
-  contentBase: path.resolve(__dirname, '../../public'),
-  colors: true,
-  quiet: false,
-  noInfo: false,
-  publicPath: '/static/',
-  historyApiFallback: true,
-  host: '127.0.0.1',
-  port: 4000,
-  hot: true
-};
+var webpack = require('webpack');
+var path = require('path');
 
 module.exports = {
   debug: false,
-  devServer: devServer,
-  devtool: '#source-map',
-  context: path.resolve(__dirname, '../../' ),
+  devtool: '#eval',
+  context: path.resolve(__dirname),
   entry: [
-    'webpack/hot/dev-server',
-    'webpack-hot-middleware/client',
     './src/index.js'
   ],
   output: {
-    path: path.resolve(__dirname, '../../dist'),
+    path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
     publicPath: '/static/', // this is basically store in memory
     pathinfo: true
@@ -38,8 +23,7 @@ module.exports = {
 
   module: {
     loaders: [
-      { test: /\.js?$/, exclude: /node_modules/, loader: 'babel-loader' },
-      { test: /\.html$/, loader: 'html-loader' },
+      { test: /\.js?$/, exclude: /node_modules/, loader: 'babel-loader' }
     ],
   },
   progress: true,
