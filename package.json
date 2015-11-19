@@ -1,7 +1,7 @@
 {
   "name": "auxjs",
   "version": "0.0.5",
-  "description": "Aux automates and simplifies Facebook's Flux architecture by minimizing repetition and encouraging a consistent convention for building actions and private methods in Flux stores.",
+  "description": "Aux was built to automate and condense the boilerplate necessary to implement Facebook's Flux architecture. Furthermore, it aims to provide a consistent convention for building actions and private methods in Flux stores.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,11 +23,9 @@
   ],
   "dependencies": {
     "flux": "^2.1.1",
-    "history": "^1.13.1",
     "mixin-decorator": "^1.0.5",
     "react": "^0.14.2",
-    "react-dom": "^0.14.2",
-    "react-router": "^1.0.0"
+    "react-dom": "^0.14.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.3",
@@ -84,6 +82,7 @@
     "gulp-uglify": "^1.0.2",
     "gulp-util": "^3.0.6",
     "gulp-watch": "^4.1.1",
+    "history": "^1.13.1",
     "html-loader": "^0.3.0",
     "http-proxy-middleware": "^0.9.0",
     "lost": "^6.6.2",
@@ -92,6 +91,7 @@
     "object-assign": "^2.0.0",
     "postcss": "^5.0.10",
     "react-loader": "^1.4.0",
+    "react-router": "^1.0.0",
     "react-transform-catch-errors": "^1.0.0",
     "react-transform-hmr": "^1.0.0",
     "redbox-react": "^1.0.1",
