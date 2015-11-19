@@ -11,17 +11,18 @@
     "type": "git",
     "url": "git://github.com/joevbruno/aux.git"
   },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joevbruno/aux/issues"
+  },
+  "homepage": "https://github.com/joevbruno/aux",
   "keywords": [
     "Flux",
     "Aux",
     "React"
   ],
   "author": "Joe Bruno <joevbruno@me.com> (http://github.com/joevbruno)",
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
+  "licenses": "MIT",
   "dependencies": {
     "flux": "^2.1.1",
     "mixin-decorator": "^1.0.5",

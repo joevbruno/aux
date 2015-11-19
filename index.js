@@ -1,2 +1,2 @@
-var Aux = require('./dist/bundle');
+var Aux = require('./dist/index');
 module.exports = Aux;
