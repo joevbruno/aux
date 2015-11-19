@@ -1,6 +1,6 @@
 {
   "name": "auxjs",
-  "version": "0.5.0",
+  "version": "0.0.5",
   "description": "Aux automates and simplifies Facebook's Flux architecture by minimizing repetition and encouraging a consistent convention for building actions and private methods in Flux stores.",
   "main": "index.js",
   "scripts": {
