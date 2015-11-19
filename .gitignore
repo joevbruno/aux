@@ -132,10 +132,6 @@ tmtags
 .tmp
 
 bower_components
-public
-
-
-dist
 
 # Default nodeJS gitignore
 # Source: https://github.com/github/gitignore/blob/master/Node.gitignore
