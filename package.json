@@ -4,7 +4,8 @@
   "description": "Aux was built to automate and condense the boilerplate necessary to implement Facebook's Flux architecture. Furthermore, it aims to provide a consistent convention for building actions and private methods in Flux stores.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release" : "NODE_ENV=production webpack -p --config webpack.config.js && git add . && git commit -m 'production patch npm build and publish' && npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
