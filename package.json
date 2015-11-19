@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "NODE_ENV=production webpack -p --config webpack.config.js && git add . && git commit -m 'production patch npm build and publish' && npm version patch && npm publish"
+    "release": "NODE_ENV=production webpack -p --config webpack.config.js && git add . && git commit -m 'production patch npm build and publish' && git push origin master && npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
@@ -38,6 +38,7 @@
     "babel-preset-react": "^6.0.15",
     "babel-preset-stage-0": "^6.0.15",
     "babel-preset-stage-1": "^6.1.18",
+    "babelify": "^7.2.0",
     "browser-sync": "^2.7.3",
     "bs-html-injector": "^3.0.0",
     "chai": "^3.4.1",

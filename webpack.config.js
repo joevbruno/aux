@@ -28,10 +28,6 @@ module.exports = {
   },
   progress: true,
   plugins: [
-    new webpack.optimize.OccurenceOrderPlugin(),
-    new webpack.HotModuleReplacementPlugin(),
     new webpack.NoErrorsPlugin(),
-    new webpack.OldWatchingPlugin(),
-    new webpack.optimize.DedupePlugin(),
   ]
 };
