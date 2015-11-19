@@ -1,6 +1,6 @@
 {
   "name": "auxjs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Aux was built to automate and condense the boilerplate necessary to implement Facebook's Flux architecture. Furthermore, it aims to provide a consistent convention for building actions and private methods in Flux stores.",
   "main": "index.js",
   "scripts": {
