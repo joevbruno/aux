@@ -1,4 +1,4 @@
-![Aux](./aux.svg)
+![Aux](./aux.png)
 # Aux
 
 Aux was built to automate and condense the boilerplate necessary to implement Facebook's Flux architecture. Furthermore, it aims to provide a consistent convention for building actions and private methods in Flux stores.
