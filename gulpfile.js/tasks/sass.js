@@ -28,7 +28,7 @@ const config = {
   sass: { outputStyle: 'compact', errLogToConsole: true },
   production: !!gutil.env.production,
   paths: {
-    coreSrc: ['./example/src/main.scss'],
+    coreSrc: ['./example/src/styles/main.scss'],
     coreDest: './example/public/css',
   },
   docs: {

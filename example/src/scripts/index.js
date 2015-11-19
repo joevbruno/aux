@@ -1,18 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import requireDir from 'require-dir';
 import Aux from '../../index';
 import API from './utils/api';
 import AppRoutes from './routes';
 
+const actions = {
+  blog: require('./actions/blog'),
+  stripe: require('./actions/stripe')
+};
+
 // Setup Flux Actions
-const actions = requireDir('./actions', {recurse: true});
 const buildActions = Object.keys(actions).map((key) => {
-  const { globalNamespace, config } = actions[key].default;
+  const { globalNamespace, config } = actions[key];
   Aux.actions.create(globalNamespace, config);
 });
 Promise.all(buildActions).then(() => {
-  // inititate the app with data by calling an action
   API.init();
 });
 require('./stores');
